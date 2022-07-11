@@ -1,2 +1,2 @@
 # javascript-practice
-this repo contain my-javascript 
+this repo contain my-javascript
