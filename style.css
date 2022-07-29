@@ -20,20 +20,7 @@ body{
 	padding-left: 500px;
 	
 }
-p.btn{
-	
-	position: absolute;
-	top: 0;
-	left: 0;
-	width: 100%;
-	height: 100%;
-	padding:10px 20px;
-	border-radius: 8px;
-	border: 2px solid #213361;
-	font-size: 18px;
-	background: black;
-	color: aliceblue;
-}
+
 
 .search_wrap{
 	
